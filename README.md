@@ -1,4 +1,4 @@
-# repaso-vue-heroes-json
+# parcial
 
 ## Project setup
 ```
